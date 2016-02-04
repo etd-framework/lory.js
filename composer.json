@@ -1,0 +1,22 @@
+{
+  "name": "etdsolutions/lory",
+  "description": "Touch enabled minimalistic slider written in vanilla JavaScript.",
+  "keywords": [
+    "swipe",
+    "slider",
+    "carousel",
+    "infinite",
+    "touch",
+    "JavaScript",
+    "Vanilla",
+    "lean"
+  ],
+  "authors": [
+    {
+      "name": "Maximilian Heinz",
+      "email": "info@maximilian-heinz.de"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "http://meandmax.github.io/lory/"
+}
